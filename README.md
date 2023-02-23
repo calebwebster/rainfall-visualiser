@@ -4,6 +4,8 @@ A simple GUI application I built using Java to visualize rainfall datasets from 
 
 ---
 
+![](https://raw.githubusercontent.com/calebwebster/rainfall-visualiser/main/screenshot.png)
+
 Java SDK version 19
 
 ### Dependencies
@@ -18,4 +20,4 @@ To run, Visualiser depends on JavaFX SDK version 19.
 
 Ensure that you add these arguments when running the visualiser:
 
-`--module-path "path/to/javafx-sdk" --add-modules javafx.controls,javafx.fxml`
+`--module-path "path/to/javafx-sdk" --add-modules javafx.controls`
