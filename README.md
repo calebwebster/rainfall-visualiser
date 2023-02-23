@@ -1,6 +1,6 @@
 # Rainfall Visualiser
 
-An assignment I completed for CP2406: Programming III in 2021
+A simple data analysis application I built using Java
 
 ---
 
