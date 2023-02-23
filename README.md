@@ -1,6 +1,6 @@
 # Rainfall Visualiser
 
-A simple data analysis application I built using Java
+A simple data analysis GUI application I built using Java
 
 ---
 
