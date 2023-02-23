@@ -1,6 +1,6 @@
 # Rainfall Visualiser
 
-A simple data analysis GUI application I built using Java
+A simple GUI application I built using Java to visualize rainfall datasets from Australia's BOM website
 
 ---
 
