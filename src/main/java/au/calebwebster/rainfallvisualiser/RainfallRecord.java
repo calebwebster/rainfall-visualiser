@@ -1,4 +1,4 @@
-package version2;
+package au.calebwebster.rainfallvisualiser;
 
 public class RainfallRecord {
     
