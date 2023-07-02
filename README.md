@@ -9,8 +9,9 @@ An application to visualize rainfall datasets from Australia's BOM website
 ## Installation
 
 - Install [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) or higher
-- Download `rainfall-visualiser-x.x.x.jar`, `openjfx-x.x.x.zip`, and `rainfall-visualiser` (`rainfall-visualiser.bat` on Windows) from [latest release](https://github.com/calebwebster/rainfall-visualiser/releases/latest)
-- Extract `javafx-sdk-x.x.x.zip` (inside `openjfx-x.x.x.zip`) into the same folder as `rainfall-visualiser-x.x.x.jar`
+- Download `rainfall-visualiser-x.x.x.jar`, and `rainfall-visualiser` (`rainfall-visualiser.bat` on Windows) from [latest release](https://github.com/calebwebster/rainfall-visualiser/releases/latest)
+- Download JavaFX LTS version 17.0.7 *SDK* for your operating system from [here](https://gluonhq.com/products/javafx/)
+- Extract the downloaded zip file into the same folder as `rainfall-visualiser-x.x.x.jar`. Ensure that you extract the inner folder (`javafx-sdk-x.x.x`) into that directory
 - Use `rainfall-visualiser` or `rainfall-visualiser.bat` (in the same directory) to run the application
 - On Linux, add `rainfall-visualiser` to path
 - On Windows, create a shortcut for `rainfall-visualiser.bat` 
